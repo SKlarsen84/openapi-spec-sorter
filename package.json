@@ -1,0 +1,22 @@
+{
+  "name": "openapi-spec-sorter",
+  "version": "1.0.0",
+  "description": "A small utility function for automatically sorting paths and schema entities in your openapi spec file",
+  "main": "index.js",
+  "bin": {
+    "sort-openapi": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openapi",
+    "spec",
+    "sorting"
+  ],
+  "author": "Stefan Larsen",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
