@@ -1,4 +1,5 @@
-# Sort OpenAPI Spec
+# Sort OpenAPI Yml spec files
+
 
 A simple command-line tool to sort OpenAPI specification files. It organizes the paths and components in alphabetical order, making your spec easier to navigate and maintain.
 
