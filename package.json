@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "A small utility function for automatically sorting paths and schema entities in your openapi spec file",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SKlarsen84/openapi-spec-sorter"
+  },
   "bin": {
     "sort-openapi": "./index.js"
   },
